@@ -28,7 +28,7 @@
 
 ```yaml
 🎓 Education: B.Tech in Computer Science
-☕ Core Focus: Java | DSA | OOPs
+☕ Core Focus: Java | DSA | OOPs | Full Stack
 🌐 Currently Exploring: Frontend Development
 🚀 Learning Path: Full Stack Development
 📚 Daily Grind: Solving LeetCode & Building Projects
