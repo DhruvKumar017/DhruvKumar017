@@ -2,7 +2,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/dhruvkumar177">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dhruv+Kumar+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%8E%93;Java+%7C+DSA+%7C+OOPs+%E2%98%95;Learning+Full+Stack+Development+%F0%9F%9A%80;Solving+LeetCode+%26+Building+Projects+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dhruv+Kumar+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%8E%93;Java+%7C+DSA+%7C+OOPs+%E2%98%95+FullStack;Learning+Full+Stack+Development+%F0%9F%9A%80;Solving+LeetCode+%26+Building+Projects+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <!-- Animated wave banner -->
